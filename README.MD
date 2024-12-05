@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1D46F7&width=435&lines=DeepFakeEvolution" alt="Typing SVG" /></a><br>  
 
-Deep Fake Evolution is an API that can perform arbitrary face swapping on videos using one single trained model.
+Deep Fake Evolution is an API  that can perform arbitrary face swapping on videos using one single trained model.
 
 That allows you to perform face-swapping on videos using a single and efficient trained model. 
 ### Examples of usage:
